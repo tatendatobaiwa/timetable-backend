@@ -1,0 +1,35 @@
+.terms-of-use-container {
+    background-color: #030303;
+    color: white;
+    padding: 2rem;
+    font-family: Poppins, sans-serif;
+    line-height: 1.6;
+    text-align: left;
+  }
+  
+  h2 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 1rem;
+    line-height: 1.8;
+  }
+  
+  .terms-of-use-container ul {
+    padding-left: 20px;
+  }
+  
+  .terms-of-use-container a {
+    color: #F4BC2A;
+    text-decoration: none;
+  }
+  
+  .terms-of-use-container a:hover {
+    text-decoration: underline;
+  }
+  

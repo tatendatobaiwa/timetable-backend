@@ -1,0 +1,173 @@
+footer {
+  background: #030303;
+  color: white;
+  padding: 0 1.5rem;
+  position: relative;
+  margin-top: auto;
+}
+
+.footer-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer-column {
+  flex: 1 1 200px;
+  padding: 0 15px;
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+}
+
+h4.footer-heading {
+  color: #F4BC2A;
+  font-size: 28px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.contact-info, .offices-info, .footer-bottom {
+  font-size: 18px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+}
+
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  margin-right: 1rem;
+}
+
+.contact-item .icon {
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+.contact-item span {
+  white-space: nowrap;
+}
+
+.contact-item.no-icon {
+  margin-left: 2.4rem;
+}
+
+.offices-info p {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  line-height: 2rem !important;
+}
+
+.social-icons img {
+  vertical-align: middle;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.social-icons img:hover {
+  opacity: 0.8;
+  transform: scale(1.1);
+}
+
+.footer-bottom {
+  width: 100%;
+  padding: 15px 0;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer-bottom p {
+  color: white;
+  font-size: small;
+  margin: 0;
+}
+
+.footer-bottom a {
+  text-decoration: none;
+  color: #F4BC2A; 
+}
+
+.footer-bottom a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+@media (max-width: 1023px) {
+  .footer-wrapper {
+    justify-content: flex-start;
+  }
+  .footer-column {
+    flex-basis: calc(50% - 30px);
+  }
+}
+
+@media (max-width: 769px) {
+  .contact-info {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .bic-logo {
+    display: flex; 
+    justify-content: center; 
+    padding: 0;
+    width: 100%; 
+  }
+
+  .bic-logo img {
+    height: 165px;
+  }
+}
+
+@media (max-width: 576px) {
+  .contact-info {
+    width: 100%;
+  }
+
+  .bic-logo img {
+    height: 145px;
+  }
+
+  .contact-item {
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .contact-item span {
+    font-size: 14px;
+  }
+
+  .contact-item.no-icon {
+    padding-left: 35px;
+    margin-left: 0.2rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 345px) {
+  .bic-logo img {
+    height: 132px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .contact-item.no-icon {
+    margin-left: 2.4rem;
+  }
+}
