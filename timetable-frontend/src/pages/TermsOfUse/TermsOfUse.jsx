@@ -47,7 +47,7 @@ const TermsOfUse = () => {
       <p>We may update these Terms from time to time. We will notify users of any significant changes. By continuing to use the Service, you accept the updated Terms.</p>
 
       <h2>10. Contact Information</h2>
-      <p>For any questions regarding these Terms, please contact us at: <strong>[Insert Contact Information]</strong></p>
+      <p>For any questions regarding these Terms, please contact us at: <strong>+267 XX XXX XXX</strong></p>
     </div>
   );
 };
