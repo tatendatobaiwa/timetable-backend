@@ -1,9 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './TermsOfUse.css';
 
 const TermsOfUse = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className="terms-of-use-container">
+      <div className="terms-of-use-content">
       <h1>Terms of Use</h1>
 
       <p>Welcome to Schedule Master! By using Schedule Master ("the Service"), you agree to these Terms of Use. If you do not agree with these terms, please do not use the Service.</p>
@@ -48,6 +53,7 @@ const TermsOfUse = () => {
 
       <h2>10. Contact Information</h2>
       <p>For any questions regarding these Terms, please contact us at: <strong>+267 XX XXX XXX</strong></p>
+      </div>
     </div>
   );
 };

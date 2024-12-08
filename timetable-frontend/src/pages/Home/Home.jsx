@@ -7,6 +7,10 @@ const Home = () => {
   const [animate, setAnimate] = useState(false);
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+  
+  useEffect(() => {
     const timer = setTimeout(() => {
       setAnimate(true);
     }, 100);
