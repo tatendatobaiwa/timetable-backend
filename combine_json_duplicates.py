@@ -64,4 +64,4 @@ def combine_schedules(input_file, output_file):
     print(f"Combined schedules for {total_modules} modules ({total_events} total events)")
 
 if __name__ == "__main__":
-    combine_schedules('retrial.json', 'aaaaaacombined_schedules.json')
+    combine_schedules('uncombined-timetable.json', 'final-timetable.json')

@@ -54,7 +54,7 @@ module_list = ['ALSS 101', 'ALSS 201', 'ALSS 301', 'BIOL 101', 'BIOL 201', 'BIOL
 result = extract_module_schedules('timetable.csv', module_list)
 
 # Save to JSON file
-with open('retrial.json', 'w') as f:
+with open('uncombined-timetable.json', 'w') as f:
     json.dump(result, f, indent=2)
 
 # Print number of modules found
