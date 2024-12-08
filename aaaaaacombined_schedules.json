@@ -1,0 +1,6358 @@
+{
+  "Module Schedules": {
+    "ALSS 101": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "ALSS 101 Lecture Group E"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "0800-0850",
+        "class": "ALSS 101 Tutorial Group C"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "ALSS 101 Lecture Group D"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "1300-1350",
+        "class": "ALSS 101 Lecture Group G"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "ALSS 101 Tutorial Group E"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "ALSS 101 Lecture Group F"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "ALSS 101 Tutorial Group A"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "ALSS 101 Tutorial Group J"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "1400-1450",
+        "class": "ALSS 101 Lecture Group H"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "ALSS 101 Tutorial Group G"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "ALSS 101 Lecture Group B"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "ALSS 101 Tutorial Group F"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Wednesday",
+        "time": "1200-1250",
+        "class": "ALSS 101 Lecture Group J"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Wednesday",
+        "time": "1300-1350",
+        "class": "ALSS 101 Lecture Group K"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "ALSS 101 Tutorial Group I"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "ALSS 101 Tutorial Group H"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "ALSS 101 Tutorial Group D"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "ALSS 101 Tutorial Group K"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "ALSS 101 Lecture Group C"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "ALSS 101 Tutorial Group B"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "ALSS 101 Lecture Group A"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "ALSS 101 Lecture Group I"
+      }
+    ],
+    "ALSS 201": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "ALSS 201 Lecture Group F"
+      },
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "ALSS 201 Tutorial Group F"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "ALSS 201 Lecture Group D"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "ALSS 201 Lecture Group C"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "ALSS 201 Lecture Group E"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "0800-0850",
+        "class": "ALSS 201 Tutorial Group H"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "ALSS 201 Lecture Group G"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "1200-1250",
+        "class": "ALSS 201 Tutorial Group A"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "ALSS 201 Lecture Group K"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "ALSS 201 Tutorial Group I"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "ALSS 201 Lecture Group H"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Friday",
+        "time": "1300-1350",
+        "class": "ALSS 201 Lecture Group B"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "ALSS 201 Tutorial Group B"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "0900-0950",
+        "class": "ALSS 201 Tutorial Group G"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "ALSS 201 Tutorial Group D"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "ALSS 201 Lecture Group A"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "ALSS 201 Tutorial Group J"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "ALSS 201 Tutorial Group C"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "ALSS 201 Tutorial Group E"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Tuesday",
+        "time": "1100-1150",
+        "class": "ALSS 201 Tutorial Group K"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "ALSS 201 Lecture Group I"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "ALSS 201 Lecture Group J"
+      }
+    ],
+    "ALSS 301": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "0900-0950",
+        "class": "ALSS 301 LECTURE GROUP 3"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "ALSS 301 LECTURE GROUP 1"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "ALSS 301 LECTURE GROUP 4"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "1600-1650",
+        "class": "ALSS 301 LECTURE GROUP 2"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "1600-1650",
+        "class": "ALSS 301 LECTURE GROUP 4"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "1500-1550",
+        "class": "ALSS 301 TUTORIAL GROUP 2"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "ALSS 301 TUTORIAL GROUP 3"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "1600-1650",
+        "class": "ALSS 301 LECTURE GROUP 1"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "ALSS 301 LECTURE GROUP 2"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "ALSS 301 TUTORIAL GROUP 4"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "0800-0850",
+        "class": "ALSS 301 TUTORIAL GROUP 1"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Friday",
+        "time": "1500-1550",
+        "class": "ALSS 301 LECTURE GROUP 3"
+      }
+    ],
+    "BIOL 101": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "BIOL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "BIOL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "BIOL 101 TUTORIAL EARTH"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "BIOL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "BIOL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "BIOL 101 TUTORIAL PA CHEM"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "BIOL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "BIOL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "BIOL 101 TUTORIAL STATISTICS"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Friday",
+        "time": "1200-1250",
+        "class": "BIOL 101 TUTORIAL INFORMATION SYS"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "BIOL 101 TUTORIAL COMPUTER SC"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "1600-1650",
+        "class": "BIOL 101 TUTORIAL FORENSIC"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "BIOL 101 TUTORIAL BIOLOGY"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Friday",
+        "time": "1200-1250",
+        "class": "BIOL 101 TUTORIAL GEOLOGY"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "BIOL 101 TUTORIAL ENVIRONMENTAL SC"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "BIOL 101 TUTORIAL PHYSICS"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "BIOL 101 TUTORIAL PA MATHEMATICS"
+      },
+      {
+        "location": "BIUST - B5/G10",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "BIOL 101 LAB GROUP E"
+      },
+      {
+        "location": "BIUST - B5/G10",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "BIOL 101 LAB GROUP D"
+      },
+      {
+        "location": "BIUST - B5/G10",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "BIOL 101 LAB GROUP B"
+      },
+      {
+        "location": "BIUST - B5/G10",
+        "day": "Tuesday",
+        "time": "1000-1250",
+        "class": "BIOL 101 LAB GROUP F"
+      },
+      {
+        "location": "BIUST - B5/G10",
+        "day": "Friday",
+        "time": "1300-1550",
+        "class": "BIOL 101 LAB GROUP C"
+      },
+      {
+        "location": "BIUST - B5/G10",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "BIOL 101 LAB GROUP A"
+      }
+    ],
+    "BIOL 201": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "BIOL 201 Tutorial"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1500-1650",
+        "class": "BIOL 201 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G21",
+        "day": "Thursday",
+        "time": "1000-1250",
+        "class": "BIOL 201 LAB"
+      }
+    ],
+    "BIOL 202": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "BIOL 202 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G14 (MICROBIOLOGY LAB)",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "BIOL 202 LAB PA CHEM & FORENSIC"
+      },
+      {
+        "location": "BIUST - B5/G14 (MICROBIOLOGY LAB)",
+        "day": "Friday",
+        "time": "1200-1450",
+        "class": "BIOL 202 LAB BIOLOGY"
+      }
+    ],
+    "BIOL 203": [
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "BIOL 203 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "BIOL 203 Tutorial"
+      },
+      {
+        "location": "BIUST - B5/G01",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "BIOL 203 LAB"
+      }
+    ],
+    "BIOL 204": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "BIOL 204 Tutorial"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "BIOL 204 LECTURE"
+      },
+      {
+        "location": "BIUST - 102/019",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "BIOL 204 LAB"
+      }
+    ],
+    "BIOL 302": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Monday",
+        "time": "1300-1450",
+        "class": "BIOL 302 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G14 (MICROBIOLOGY LAB)",
+        "day": "Tuesday",
+        "time": "0900-1150",
+        "class": "BIOL 302 LAB"
+      }
+    ],
+    "BIOL 303": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Friday",
+        "time": "1600-1750",
+        "class": "BIOL 303 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G01",
+        "day": "Friday",
+        "time": "0900-1150",
+        "class": "BIOL 303 LAB"
+      }
+    ],
+    "BIOL 304": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Wednesday",
+        "time": "1100-1250",
+        "class": "BIOL 304 LECTURE"
+      },
+      {
+        "location": "BIUST - 102/019",
+        "day": "Thursday",
+        "time": "0900-1150",
+        "class": "BIOL 304 LAB"
+      }
+    ],
+    "BIOL 305": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1200-1350",
+        "class": "BIOL 305 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G21",
+        "day": "Wednesday",
+        "time": "1400-1650",
+        "class": "BIOL 305 LAB"
+      }
+    ],
+    "BIOL 313": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "BIOL 313 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G21",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "BIOL 313 LAB"
+      }
+    ],
+    "BIOL 314": [
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "BIOL 314 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G21",
+        "day": "Tuesday",
+        "time": "1300-1550",
+        "class": "BIOL 314 LAB"
+      }
+    ],
+    "BIOL 401": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Friday",
+        "time": "1200-1450",
+        "class": "BIOL 401 LAB"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "BIOL 401 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Friday",
+        "time": "1500-1550",
+        "class": "BIOL 401 LECTURE"
+      }
+    ],
+    "BIOL 402": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "BIOL 402 Tutorial"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Tuesday",
+        "time": "1300-1450",
+        "class": "BIOL 402 LECTURE"
+      },
+      {
+        "location": "BIUST - 102/019",
+        "day": "Friday",
+        "time": "0900-1150",
+        "class": "BIOL 402 LAB"
+      }
+    ],
+    "BIOL 403": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "BIOL 403 Tutorial"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Monday",
+        "time": "1100-1250",
+        "class": "BIOL 403 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G01",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "BIOL 403 LAB"
+      }
+    ],
+    "BIOL 405": [
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "BIOL 405 Tutorial"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Tuesday",
+        "time": "1000-1150",
+        "class": "BIOL 405 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G14 (MICROBIOLOGY LAB)",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "BIOL 405 LAB"
+      }
+    ],
+    "BIOL 406": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "BIOL 406 Tutorial"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "BIOL 406 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G14 (MICROBIOLOGY LAB)",
+        "day": "Thursday",
+        "time": "1000-1250",
+        "class": "BIOL 406 LAB"
+      }
+    ],
+    "BIOL 601": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "BIOL 601 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G21",
+        "day": "Wednesday",
+        "time": "0800-0850",
+        "class": "BIOL 601 LAB"
+      }
+    ],
+    "BIOL 602": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "BIOL 602 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G21",
+        "day": "Thursday",
+        "time": "1300-1550",
+        "class": "BIOL 602 LAB"
+      }
+    ],
+    "BIOL 603": [
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1200-1350",
+        "class": "BIOL 603 LECTURE"
+      },
+      {
+        "location": "BIUST - B5/G10",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "BIOL 603 LAB"
+      }
+    ],
+    "CETG 111": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "CETG 111 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "CETG 111 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "CETG 111 LECTURE"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Monday",
+        "time": "1000-1250",
+        "class": "CETG 111 LAB GROUP GEOLOGICAL & MINING"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Friday",
+        "time": "1000-1250",
+        "class": "CETG 111 LAB GROUP INDUSTRIAL & MECHANICAL"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "CETG 111 LAB GROUP COMPUTER & TELE"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Friday",
+        "time": "1300-1550",
+        "class": "CETG 111 LAB GROUP ELECTRICAL"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "CETG 111 LAB GROUP MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "CETG 111 LAB GROUP CIVIL"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "CETG 111 LAB GROUP CHEMICAL & MATERIALS"
+      }
+    ],
+    "CHCL 101": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1800-1950",
+        "class": "CHCL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "1800-1950",
+        "class": "CHCL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1800-1950",
+        "class": "CHCL 101 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "1800-1950",
+        "class": "CHCL 101 LECTURE"
+      }
+    ],
+    "CHCL 102": [
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Tuesday",
+        "time": "1800-1950",
+        "class": "CHCL 102 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1800-1950",
+        "class": "CHCL 102 LECTURE"
+      }
+    ],
+    "CHCL 103": [
+      {
+        "location": "BIUST - 119/004",
+        "day": "Monday",
+        "time": "1100-1250",
+        "class": "CHCL 103 LECTURE"
+      }
+    ],
+    "CHCL 104": [
+      {
+        "location": "BIUST - 119/003",
+        "day": "Thursday",
+        "time": "1800-1950",
+        "class": "CHCL 104 LECTURE"
+      }
+    ],
+    "CHCL 105": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "CHCL 105 LECTURE"
+      }
+    ],
+    "CHCL 106": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "CHCL 106 LECTURE"
+      }
+    ],
+    "CHCL 107": [
+      {
+        "location": "BIUST - 119/008",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "CHCL 107 LECTURE"
+      }
+    ],
+    "CHEE 210": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "1000-1150",
+        "class": "CHEE 210 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "CHEE 210 Tutorial"
+      },
+      {
+        "location": "BIUST - BLOCK 121/001",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "CHEE 210 LAB"
+      }
+    ],
+    "CHEE 310": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "CHEE 310 Tutorial"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Thursday",
+        "time": "1100-1250",
+        "class": "CHEE 310 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/002",
+        "day": "Wednesday",
+        "time": "1100-1350",
+        "class": "CHEE 310 LAB"
+      }
+    ],
+    "CHEE 311": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "CHEE 311 Tutorial"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "CHEE 311 LECTURE"
+      },
+      {
+        "location": "BIUST - BLOCK 121/001",
+        "day": "Tuesday",
+        "time": "1000-1250",
+        "class": "CHEE 311 LAB"
+      }
+    ],
+    "CHEE 312": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "CHEE 312 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "CHEE 312 Tutorial"
+      },
+      {
+        "location": "BIUST - BLOCK 121/001",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "CHEE 312 LAB"
+      }
+    ],
+    "CHEE 411": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "CHEE 411 Tutorial"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "CHEE 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/004",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "CHEE 411 LAB"
+      }
+    ],
+    "CHEE 412": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "CHEE 412 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "CHEE 412 Tutorial"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "CHEE 412 LAB"
+      }
+    ],
+    "CHEE 413": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Thursday",
+        "time": "1000-1150",
+        "class": "CHEE 413 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "CHEE 413 Tutorial"
+      },
+      {
+        "location": "BIUST - 121/004",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "CHEE 413 LAB"
+      }
+    ],
+    "CHEE 414": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "CHEE 414 Tutorial"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "CHEE 414 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "CHEE 414 LAB"
+      }
+    ],
+    "CHEE 415": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1300-1350",
+        "class": "CHEE 415 Tutorial"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "CHEE 415 Lecture"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "CHEE 415 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Monday",
+        "time": "1200-1450",
+        "class": "CHEE 415 LAB"
+      }
+    ],
+    "CHEE 510": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "CHEE 510 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "CHEE 510 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "CHEE 510 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "CHEE 510 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/002",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "CHEE 510 LAB"
+      }
+    ],
+    "CHEE 512": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "CHEE 512 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "CHEE 512 Tutorial"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "CHEE 512 LAB"
+      }
+    ],
+    "CHEE 514": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Wednesday",
+        "time": "1600-1650",
+        "class": "CHEE 514 Tutorial"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "CHEE 514 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/002",
+        "day": "Tuesday",
+        "time": "1300-1550",
+        "class": "CHEE 514 LAB"
+      }
+    ],
+    "CHEE 515": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "CHEE 515 Tutorial"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "CHEE 515 LECTURE"
+      },
+      {
+        "location": "BIUST - BLOCK 121/001",
+        "day": "Wednesday",
+        "time": "1100-1350",
+        "class": "CHEE 515 LAB"
+      }
+    ],
+    "CHEE 516": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "1200-1250",
+        "class": "CHEE 516 Tutorial"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "CHEE 516 LECTURE"
+      },
+      {
+        "location": "BIUST - BLOCK 121/001",
+        "day": "Friday",
+        "time": "1100-1350",
+        "class": "CHEE 516 LAB"
+      }
+    ],
+    "CHEE 517": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "CHEE 517 Tutorial"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1500-1650",
+        "class": "CHEE 517 LECTURE"
+      },
+      {
+        "location": "BIUST - BLOCK 121/001",
+        "day": "Friday",
+        "time": "1400-1650",
+        "class": "CHEE 517 LAB"
+      }
+    ],
+    "CHEM 101": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "CHEM 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Friday",
+        "time": "0900-0950",
+        "class": "CHEM 101 Lecture ENGINEERING"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "CHEM 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Thursday",
+        "time": "1600-1650",
+        "class": "CHEM 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "CHEM 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Friday",
+        "time": "0900-0950",
+        "class": "CHEM 101 Lecture ENGINEERING"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "CHEM 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1600-1650",
+        "class": "CHEM 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "CHEM 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Friday",
+        "time": "0900-0950",
+        "class": "CHEM 101 Lecture ENGINEERING"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "CHEM 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1600-1650",
+        "class": "CHEM 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "CHEM 101 TUTORIAL GROUP C"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "CHEM 101 TUTORIAL GROUP J"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "CHEM 101 TUTORIAL GROUP H"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "CHEM 101 TUTORIAL GROUP B"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Friday",
+        "time": "1400-1450",
+        "class": "CHEM 101 TUTORIAL GROUP G"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "CHEM 101 TUTORIAL GROUP I"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "CHEM 101 TUTORIAL GROUP A"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "CHEM 101 TUTORIAL GROUP E"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "CHEM 101 TUTORIAL GROUP D"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "1400-1450",
+        "class": "CHEM 101 TUTORIAL GROUP F"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "CHEM 101 LAB GROUP INFORMATION SYSTEMS & COMPUTER SCIENCE"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "CHEM 101 LAB GROUP EARTH & GEOLOGY"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "CHEM 101 LAB GROUP MATHS & STATS"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "CHEM 101 LAB GROUP INDUSTRIAL"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "CHEM 101 LAB GROUP BIOLOGY"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "CHEM 101 LAB GROUP MINING & GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Friday",
+        "time": "1100-1350",
+        "class": "CHEM 101 LAB GROUP FORENSIC & PA CHEM"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "CHEM 101 LAB GROUP CHEMICAL, MATERIALS"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "CHEM 101 LAB GROUP ENV SC & PHYSICS"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "CHEM 101 LAB GROUP ELECTRICAL & MECHATRONICS"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "CHEM 101 LAB GROUP MECHANICAL"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 5/6",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "CHEM 101 LAB GROUP CIVIL & COMP & TELE"
+      }
+    ],
+    "CHEM 203": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Tuesday",
+        "time": "1300-1450",
+        "class": "CHEM 203 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "CHEM 203 TUTORIAL BIOLOGY"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "CHEM 203 TUTORIAL FORENSIC"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "CHEM 203 Lecture"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "CHEM 203 Tutorial PA CHEMISTRY"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "CHEM 203 LAB BIOLOGY"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "CHEM 203 LAB PA CHEMISTRY"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Wednesday",
+        "time": "1200-1450",
+        "class": "CHEM 203 LAB FORENSIC"
+      }
+    ],
+    "CHEM 205": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "CHEM 205 Lecture"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "CHEM 205 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1500-1550",
+        "class": "CHEM 205 TUTORIAL PA CHEM & FORE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "CHEM 205 TUTORIAL GEOLOGY & EARTH"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Tuesday",
+        "time": "1400-1650",
+        "class": "CHEM 205 LAB GEOLOGY & EARTH"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "CHEM 205 LAB PA CHEM & FORE"
+      }
+    ],
+    "CHEM 302": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Monday",
+        "time": "1500-1550",
+        "class": "CHEM 302 Lecture"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Friday",
+        "time": "1500-1650",
+        "class": "CHEM 302 LECTURE"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Wednesday",
+        "time": "1100-1350",
+        "class": "CHEM 302 LAB FORENSIC"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Wednesday",
+        "time": "1400-1650",
+        "class": "CHEM 302 LAB PA CHEM"
+      }
+    ],
+    "CHEM 303": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "CHEM 303 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "CHEM 303 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "CHEM 303 Tutorial"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "CHEM 303 LECTURE"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Friday",
+        "time": "1100-1350",
+        "class": "CHEM 303 LAB"
+      }
+    ],
+    "CHEM 306": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "CHEM 306 TUT"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "CHEM 306 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "CHEM 306 Lecture"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "CHEM 306 LAB"
+      }
+    ],
+    "CHEM 307": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "CHEM 307 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "CHEM 307 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "CHEM 307 Tutorial"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "CHEM 307 LECTURE"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Monday",
+        "time": "1000-1250",
+        "class": "CHEM 307 LAB"
+      }
+    ],
+    "CHEM 309": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Monday",
+        "time": "1300-1450",
+        "class": "CHEM 309 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "CHEM 309 Lecture"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "CHEM 309 LAB"
+      }
+    ],
+    "CHEM 402": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "CHEM 402 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "1200-1250",
+        "class": "CHEM 402 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "CHEM 402 LECTURE"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "CHEM 402 LAB"
+      }
+    ],
+    "CHEM 403": [
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "CHEM 403 Lecture"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "CHEM 403 LECTURE"
+      },
+      {
+        "location": "BIUST - CHEMISTRY PREFAB 3/4",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "CHEM 403 LAB"
+      }
+    ],
+    "CHEM 405": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "CHEM 405 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "CHEM 405 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "CHEM 405 LECTURE"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "CHEM 405 LAB"
+      }
+    ],
+    "CHEM 407": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Tuesday",
+        "time": "1400-1450",
+        "class": "CHEM 407 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "CHEM 407 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "CHEM 407 LECTURE"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "CHEM 407 LAB"
+      }
+    ],
+    "CHEM 409": [
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "0900-0950",
+        "class": "CHEM 409 Lecture"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Friday",
+        "time": "1300-1450",
+        "class": "CHEM 409 LECTURE"
+      },
+      {
+        "location": "BIUST - MAIN CHEMISTRY LAB 22/24",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "CHEM 409 LAB"
+      }
+    ],
+    "CIVE 311": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Wednesday",
+        "time": "1300-1450",
+        "class": "CIVE 311 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "CIVE 311 Tutorial"
+      },
+      {
+        "location": "BIUST - MAPROOM 1 (CIVIL)",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "CIVE 311 LAB"
+      }
+    ],
+    "CIVE 312": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "1500-1650",
+        "class": "CIVE 312 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Wednesday",
+        "time": "1600-1650",
+        "class": "CIVE 312 TUTORIAL"
+      },
+      {
+        "location": "BIUST - MAPROOM 1 (CIVIL)",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "CIVE 312 LAB"
+      }
+    ],
+    "CIVE 314": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "0900-1050",
+        "class": "CIVE 314 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "CIVE 314 TUTORIAL"
+      },
+      {
+        "location": "BIUST - MAPROOM 1 (CIVIL)",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "CIVE 314 LAB"
+      }
+    ],
+    "CIVE 315": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Monday",
+        "time": "1500-1650",
+        "class": "CIVE 315 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "CIVE 315 TUTORIAL"
+      },
+      {
+        "location": "BIUST - MAPROOM 1 (CIVIL)",
+        "day": "Thursday",
+        "time": "1400-1650",
+        "class": "CIVE 315 LAB"
+      }
+    ],
+    "CIVE 411": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "1400-1450",
+        "class": "CIVE 411 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Friday",
+        "time": "1600-1750",
+        "class": "CIVE 411 LECTURE"
+      },
+      {
+        "location": "BIUST - MAPROOM 1 (CIVIL)",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "CIVE 411 LAB"
+      }
+    ],
+    "CIVE 412": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "CIVE 412 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "CIVE 412 TUTORIAL"
+      },
+      {
+        "location": "BIUST - MAPROOM 2 (CIVIL)",
+        "day": "Thursday",
+        "time": "1200-1450",
+        "class": "CIVE 412 LAB"
+      }
+    ],
+    "CIVE 414": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "CIVE 414 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "CIVE 414 TUTORIAL"
+      },
+      {
+        "location": "BIUST - MAPROOM 2 (CIVIL)",
+        "day": "Wednesday",
+        "time": "1100-1350",
+        "class": "CIVE 414 LAB"
+      }
+    ],
+    "CIVE 415": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "CIVE 415 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "CIVE 415 LECTURE"
+      },
+      {
+        "location": "BIUST - MAPROOM 2 (CIVIL)",
+        "day": "Friday",
+        "time": "1100-1350",
+        "class": "CIVE 415 LAB"
+      }
+    ],
+    "CIVE 416": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "CIVE 416 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "CIVE 416 TUTORIAL"
+      },
+      {
+        "location": "BIUST - MAPROOM 1 (CIVIL)",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "CIVE 416 LAB"
+      }
+    ],
+    "CIVE 514": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "CIVE 514 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "CIVE 514 LECTURE"
+      },
+      {
+        "location": "BIUST - MAPROOM 2 (CIVIL)",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "CIVE 514 LAB"
+      }
+    ],
+    "CIVE 517": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "CIVE 517 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "CIVE 517 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "CIVE 517 WORKSHOP"
+      }
+    ],
+    "CMME 510": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "CMME 510 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Thursday",
+        "time": "1100-1250",
+        "class": "CMME 510 LAB"
+      }
+    ],
+    "CMME 511": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1400-1550",
+        "class": "CMME 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "CMME 511 Tutorial"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "CMME 511 LAB"
+      }
+    ],
+    "COMP 101": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Tuesday",
+        "time": "1200-1350",
+        "class": "COMP 101 ENGINEERING"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "COMP 101 SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1200-1350",
+        "class": "COMP 101 ENGINEERING"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "COMP 101 SCIENCE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1200-1350",
+        "class": "COMP 101 ENGINEERING"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "COMP 101 SCIENCE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "COMP 101 LAB GROUP EARTH"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Friday",
+        "time": "1100-1350",
+        "class": "COMP 101 LAB GROUP COMP SC"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Friday",
+        "time": "1400-1650",
+        "class": "COMP 101 LAB GROUP MECHANICAL"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "COMP 101 LAB GROUP CHEMICAL & MATERIALS"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "COMP 101 LAB GROUP GEOLOGY"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Monday",
+        "time": "1200-1450",
+        "class": "COMP 101 LAB GROUP COMP &TELE"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Wednesday",
+        "time": "1200-1450",
+        "class": "COMP 101 LAB GROUP GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "COMP 101 LAB GROUP MINING"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "COMP 101 LAB GROUP MATHS & STATS"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1200-1450",
+        "class": "COMP 101 LAB GROUP FORENSIC"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Friday",
+        "time": "1200-1450",
+        "class": "COMP 101 LAB GROUP BIOLOGY 2"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "COMP 101 LAB GROUP PA CHEM"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Friday",
+        "time": "0900-1150",
+        "class": "COMP 101 LAB GROUP INFO"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1000-1250",
+        "class": "COMP 101 LAB GROUP MECHATRONICS"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "COMP 101 LAB GROUP ENVIRONMENTAL SCIENCE & PHYSICS"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Friday",
+        "time": "1200-1450",
+        "class": "COMP 101 LAB GROUP BIOLOGY 1"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Monday",
+        "time": "1400-1650",
+        "class": "COMP 101 LAB GROUP INDUSTRIAL"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "COMP 101 LAB GROUP ELECTRICAL"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "COMP 101 LAB GROUP CIVIL"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Friday",
+        "time": "1200-1450",
+        "class": "COMP 101 LAB GROUP BIOLOGY 1"
+      }
+    ],
+    "COMP 201": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "COMP 201 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "1100-1350",
+        "class": "COMP 201 LAB"
+      }
+    ],
+    "COMP 211": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "COMP 211 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "COMP 211 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "COMP 211 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "COMP 211 LAB GROUP H"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "COMP 211 LAB GROUP E & PHYSICS"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "COMP 211 LAB GROUP I"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "COMP 211 LAB GROUP J"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "COMP 211 LAB GROUP K"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "COMP 211 LAB GROUP G"
+      }
+    ],
+    "COMP 221": [
+      {
+        "location": "BIUST - 115/001",
+        "day": "Thursday",
+        "time": "1200-1350",
+        "class": "COMP 221 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "COMP 221 LAB"
+      }
+    ],
+    "COMP 231": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Friday",
+        "time": "0900-1050",
+        "class": "COMP 231 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY COMPUTER LAB",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "COMP 231 LAB"
+      }
+    ],
+    "COMP 302": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "COMP 302 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Tuesday",
+        "time": "1200-1450",
+        "class": "COMP 302 LAB"
+      }
+    ],
+    "COMP 311": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Monday",
+        "time": "1000-1150",
+        "class": "COMP 311 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "COMP 311 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "COMP 311 LAB"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "COMP 311 LAB"
+      }
+    ],
+    "COMP 331": [
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "COMP 331 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "COMP 331 LAB"
+      }
+    ],
+    "COMP 332": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "COMP 332 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Monday",
+        "time": "1300-1550",
+        "class": "COMP 332 LAB"
+      }
+    ],
+    "COMP 342": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "COMP 342 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "COMP 342 LAB"
+      }
+    ],
+    "COMP 353": [
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "COMP 353 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "COMP 353 LAB"
+      }
+    ],
+    "COMP 361": [
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "COMP 361 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "COMP 361 LAB"
+      }
+    ],
+    "COMP 401": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "COMP 401/INFS 401 LECTURE"
+      }
+    ],
+    "COMP 412": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Friday",
+        "time": "1300-1450",
+        "class": "COMP 412 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Monday",
+        "time": "1100-1250",
+        "class": "COMP 412 LAB"
+      }
+    ],
+    "COMP 431": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "COMP 431 LECTURE"
+      }
+    ],
+    "COMP 441": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "COMP 441 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "COMP 441 LAB"
+      }
+    ],
+    "COMP 451": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "COMP 451 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "COMP 451 LAB"
+      }
+    ],
+    "CPEN 513": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "CPEN 513 LECTURE"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "CPEN 513 LAB"
+      }
+    ],
+    "CPEN 522": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Friday",
+        "time": "1100-1250",
+        "class": "CPEN 522 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1200-1450",
+        "class": "CPEN 522 LAB"
+      }
+    ],
+    "CTEN 415": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "1300-1350",
+        "class": "CTEN 415 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "CTEN 415 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "CTEN 415 LAB"
+      }
+    ],
+    "CTEN 511": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "CTEN 511/MINS 511 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "CTEN 511/MINS 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Thursday",
+        "time": "1000-1250",
+        "class": "CTEN 511/MINS 511 LAB"
+      }
+    ],
+    "CTEN 512": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "CTEN 512 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "CTEN 512 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/114",
+        "day": "Thursday",
+        "time": "1300-1550",
+        "class": "CTEN 512 LAB"
+      }
+    ],
+    "EEEN 211": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "EEEN 211 LECTURE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Thursday",
+        "time": "1200-1350",
+        "class": "EEEN 211 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "EEEN 211 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1200-1350",
+        "class": "EEEN 211 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "EEEN 211 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1200-1350",
+        "class": "EEEN 211 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/008",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "EEEN 211 LAB GROUP H"
+      },
+      {
+        "location": "BIUST - 107/008",
+        "day": "Wednesday",
+        "time": "1200-1450",
+        "class": "EEEN 211 LAB GROUP J"
+      },
+      {
+        "location": "BIUST - 107/008",
+        "day": "Friday",
+        "time": "1300-1550",
+        "class": "EEEN 211 LAB GROUP I"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "EEEN 211 LAB GROUP K"
+      }
+    ],
+    "EEEN 221": [
+      {
+        "location": "BIUST - 107/011 ELECTRICAL WORKSHOP",
+        "day": "Tuesday",
+        "time": "1000-1250",
+        "class": "EEEN 221 LAB MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 107/011 ELECTRICAL WORKSHOP",
+        "day": "Monday",
+        "time": "1400-1650",
+        "class": "EEEN 221 LAB YEAR 3 MINING"
+      }
+    ],
+    "EEEN 311": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Friday",
+        "time": "1500-1650",
+        "class": "EEEN 311 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/008",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "EEEN 311 LAB ELECTRICAL"
+      },
+      {
+        "location": "BIUST - 107/008",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "EEEN 311 MECHANICAL & COMP & TELE"
+      }
+    ],
+    "EEEN 313": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "EEEN 313 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "EEEN 313 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "EEEN 313 LAB"
+      }
+    ],
+    "EEEN 314": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Thursday",
+        "time": "1000-1150",
+        "class": "EEEN 314 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "EEEN 314 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Wednesday",
+        "time": "1100-1350",
+        "class": "EEEN 314 LAB"
+      }
+    ],
+    "EEEN 411": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Wednesday",
+        "time": "1000-1150",
+        "class": "EEEN 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "EEEN 411 LAB ELECTRICAL & MECHANICAL"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "EEEN 411 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/114",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "EEEN 411 LAB ELECTRICAL & MECHANICAL"
+      },
+      {
+        "location": "BIUST - 107/114",
+        "day": "Monday",
+        "time": "1200-1450",
+        "class": "EEEN 411 LAB MECHATRONICS & COMPUTER AND TELE"
+      }
+    ],
+    "EEEN 412": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "EEEN 412 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Tuesday",
+        "time": "1400-1450",
+        "class": "EEEN 412 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Monday",
+        "time": "1200-1450",
+        "class": "EEEN 412 LAB ELECTRICAL"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Friday",
+        "time": "1300-1550",
+        "class": "EEEN 412 LAB MECHATRONICS"
+      }
+    ],
+    "EEEN 413": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "EEEN 413 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Tuesday",
+        "time": "1200-1350",
+        "class": "EEEN 413 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "EEEN 413 LAB"
+      }
+    ],
+    "EEEN 414": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "EEEN 414 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "EEEN 414 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/114",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "EEEN 414 LAB MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 107/011 ELECTRICAL WORKSHOP",
+        "day": "Wednesday",
+        "time": "1400-1650",
+        "class": "EEEN 414 LAB COMP & TELE AND ELECTRICAL"
+      }
+    ],
+    "EEEN 510": [
+      {
+        "location": "BIUST - 119/008",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "EEEN 510 LECTURE"
+      }
+    ],
+    "EEEN 511": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Friday",
+        "time": "1000-1150",
+        "class": "EEEN 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/011 ELECTRICAL WORKSHOP",
+        "day": "Monday",
+        "time": "0900-1150",
+        "class": "EEEN 511 LAB"
+      }
+    ],
+    "EEEN 512": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "EEEN 512/ENER 415 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "EEEN 512/ENER 415 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Wednesday",
+        "time": "1300-1450",
+        "class": "EEEN 512/ENER 415 LAB"
+      }
+    ],
+    "EEEN 514": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "EEEN 514 LECTURE"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "EEEN 514 LAB"
+      }
+    ],
+    "EEEN 516": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "EEEN 516 LECTURE"
+      }
+    ],
+    "EEEN 517": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "EEEN 517 LECTURE"
+      }
+    ],
+    "EEEN 519": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "EEEN 519 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/114",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "EEEN 519 LAB"
+      }
+    ],
+    "EMTH 201": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "EMTH 201 LECTURE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "EMTH 201 Lecture"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "EMTH 201 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "EMTH 201 Lecture"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "EMTH 201 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "EMTH 201 Lecture"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "EMTH 201 TUTORIAL GROUP K"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "EMTH 201 TUTORIAL GROUP G"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Tuesday",
+        "time": "1200-1250",
+        "class": "EMTH 201 TUTORIAL GROUP J"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1400-1450",
+        "class": "EMTH 201 TUTORIAL GROUP H"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "EMTH 201 TUTORIAL GROUP I"
+      }
+    ],
+    "EMTH 301": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Friday",
+        "time": "1400-1450",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1400-1450",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1400-1450",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "EMTH 301 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "EMTH 301 LECTURE"
+      }
+    ],
+    "ENER 411": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "ENER 411 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "ENER 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/102",
+        "day": "Thursday",
+        "time": "1300-1550",
+        "class": "ENER 411 LAB"
+      }
+    ],
+    "ENER 412": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "ENER 412 Lecture"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Wednesday",
+        "time": "1500-1650",
+        "class": "ENER 412 LECTURE"
+      }
+    ],
+    "ENER 415": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "EEEN 512/ENER 415 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "EEEN 512/ENER 415 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Wednesday",
+        "time": "1300-1450",
+        "class": "EEEN 512/ENER 415 LAB"
+      }
+    ],
+    "ENER 511": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "ENER 511 Lecture"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "1000-1150",
+        "class": "ENER 511 LECTURE"
+      }
+    ],
+    "ENER 513": [
+      {
+        "location": "BIUST - 119/008",
+        "day": "Friday",
+        "time": "1300-1450",
+        "class": "ENER 513 LECTURE"
+      }
+    ],
+    "ENVS 201": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "1600-1650",
+        "class": "ENVS 201 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "ENVS 201 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1400-1550",
+        "class": "ENVS 201 LECTURE"
+      }
+    ],
+    "ENVS 301": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "1000-1150",
+        "class": "ENVS 301 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "ENVS 301 TUTORIAL"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "ENVS 301 LAB"
+      }
+    ],
+    "ENVS 303": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "ENVS 303 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "ENVS 303 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "ENVS 303 LECTURE"
+      }
+    ],
+    "ENVS 305": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Wednesday",
+        "time": "1100-1250",
+        "class": "ENVS 305 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "ENVS 305 TUTORIAL"
+      },
+      {
+        "location": "BIUST - GIS AND REMOTE SENSING LAB",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "ENVS 305 LAB"
+      }
+    ],
+    "ENVS 307": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Wednesday",
+        "time": "1300-1450",
+        "class": "ENVS 307 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "ENVS 307 LECTURE"
+      }
+    ],
+    "ENVS 309": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "ENVS 309 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Wednesday",
+        "time": "0900-1050",
+        "class": "ENVS 309 LECTURE"
+      }
+    ],
+    "ENVS 401": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "ENVS 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "ENVS 401 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "ENVS 401 TUTORIAL"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "ENVS 401 LAB"
+      }
+    ],
+    "ENVS 403": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Friday",
+        "time": "1100-1250",
+        "class": "ENVS 403 LECTURE"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "ENVS 403 LAB"
+      }
+    ],
+    "ENVS 405": [
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Tuesday",
+        "time": "1200-1350",
+        "class": "ENVS 405 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "1600-1650",
+        "class": "ENVS 405 TUTORIAL"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "ENVS 405 LAB"
+      }
+    ],
+    "ENVS 407": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "ENVS 407 LECTURE"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "ENVS 407 LAB"
+      }
+    ],
+    "FRSC 301": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "1200-1250",
+        "class": "FRSC 301 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "0900-0950",
+        "class": "FRSC 301 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "FRSC 301 LECTURE"
+      },
+      {
+        "location": "BIUST - FORENSICS LAB",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "FRSC 301 LAB"
+      }
+    ],
+    "FRSC 401": [
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "FRSC 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "FRSC 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "FRSC 401 LECTURE"
+      },
+      {
+        "location": "BIUST - FORENSICS LAB",
+        "day": "Wednesday",
+        "time": "1000-1250",
+        "class": "FRSC 401 LAB"
+      }
+    ],
+    "FRSC 403": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1100-1150",
+        "class": "FRSC 403 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "FRSC 403 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "FRSC 403 LECTURE"
+      },
+      {
+        "location": "BIUST - FORENSICS LAB",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "FRSC 403 LAB"
+      }
+    ],
+    "GEME 201": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "GEME 201 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "GEME 201 LECTURE"
+      }
+    ],
+    "GEME 313": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "GEME 313 LECTURE GEOL,INFO,PHYS,PA CHEM,MATHS,STAT"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "GEME 313 LECTURE CIVIL,BIOL,COMP SC,ENV SC,FORE"
+      }
+    ],
+    "GEME 411": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "1500-1550",
+        "class": "GEME 411 TUTORIAL IND, MATERIALS, MINING"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Monday",
+        "time": "0900-1050",
+        "class": "GEME 411 LECTURE CHEM ENG,CIVIL,COMP&T,MECHANICAL"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "GEME 411 TUTORIAL ELECTRICAL,GEOLOGICAL,MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "GEME 411 TUTORIAL CHEM ENG,CIVIL,COMP&T,MECHANICAL"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "GEME 411 LECTURE ELECTRICAL,GEOLOGICAL,MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "GEME 411 LECTURE IND, MATERIALS, MINING"
+      }
+    ],
+    "GEME 414": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "GEME 414 LECTURE PHYS,PA CHEM,PA MATHS,STAT.EARTH,BIOL"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "GEME 414 LECTURE COMP SC,ENV SC,FORE,GEOL,INFO"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "GEME 414 TUTORIAL PHYS,PA CHEM,PA MATHS,STAT,EARTH,BIOL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "GEME 414 TUTORIAL COMP SC,ENV SC,FORE,GEOL,INFO"
+      }
+    ],
+    "GEME 415": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Friday",
+        "time": "1300-1350",
+        "class": "GEME 415 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "GEME 415 LECTURE"
+      }
+    ],
+    "GEME 416": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "1200-1350",
+        "class": "GEME 416 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "GEME 416 TUTORIAL"
+      }
+    ],
+    "GEME 512": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "GEME 512 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Friday",
+        "time": "1100-1250",
+        "class": "GEME 512 LECTURE"
+      }
+    ],
+    "GEME 630": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "GEME 630 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "GEME 630 LECTURE"
+      }
+    ],
+    "GEOL 201": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "GEOL 201 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "GEOL 201 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "GEOL 201 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "GEOL 201 TUTORIAL SCIENCE GROUPS"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "GEOL 201 TUTORIAL ENGINEERING GROUPS"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "GEOL 201 LAB SCIENCE GROUP"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "GEOL 201 LAB ENGINEERING GROUP"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Monday",
+        "time": "1200-1450",
+        "class": "GEOL 201 LAB ENGINEERING GROUP"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "GEOL 201 LAB SCIENCE GROUP"
+      }
+    ],
+    "GEOL 207": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Thursday",
+        "time": "1400-1550",
+        "class": "GEOL 207 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "GEOL 207 TUTORIAL"
+      },
+      {
+        "location": "BIUST - PETROLOGY/MINERALOGY LAB",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "GEOL 207 LAB"
+      }
+    ],
+    "GEOL 301": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Tuesday",
+        "time": "0900-1050",
+        "class": "GEOL 301 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "GEOL 301 TUTORIAL"
+      },
+      {
+        "location": "BIUST - PETROLOGY/MINERALOGY LAB",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "GEOL 301 LAB"
+      }
+    ],
+    "GEOL 303": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "GEOL 303 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "GEOL 303 TUTORIAL"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "GEOL 303 LAB"
+      }
+    ],
+    "GEOL 305": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "GEOL 305 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "GEOL 305 LECTURE"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "GEOL 305 LAB"
+      }
+    ],
+    "GEOL 307": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "GEOL 307 TUT YEAR 4 GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "GEOL 307 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "GEOL 307 TUTORIAL SCIENCE GROUPS"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Tuesday",
+        "time": "1300-1550",
+        "class": "GEOL 307 LAB SCIENCE GROUPS"
+      },
+      {
+        "location": "BIUST - SOIL SCIENCE SEDIMENTOLOGY LAB",
+        "day": "Wednesday",
+        "time": "1300-1550",
+        "class": "GEOL 307 LAB YEAR 4 GEOLOGICAL"
+      }
+    ],
+    "GEOL 401": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "GEOL 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "GEOL 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "GEOL 401 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES COMPUTER LAB",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "GEOL 401 LAB"
+      }
+    ],
+    "GEOL 403": [
+      {
+        "location": "BIUST - 119/004",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "GEOL 403 LECTURE"
+      },
+      {
+        "location": "BIUST - PETROLOGY/MINERALOGY LAB",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "GEOL 403 LAB"
+      }
+    ],
+    "GEOL 405": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Thursday",
+        "time": "1000-1150",
+        "class": "GEOL 405 LECTURE"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "GEOL 405 LAB Y5 GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Tuesday",
+        "time": "1200-1450",
+        "class": "GEOL 405 LAB Y4 EARTH & GEOLOGY"
+      }
+    ],
+    "GEOL 601": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "0800-0850",
+        "class": "GEOL 601 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "GEOL 601 TUT"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "GEOL 601 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "GEOL 601 LECTURE"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Monday",
+        "time": "1300-1450",
+        "class": "GEOL 601 LAB"
+      }
+    ],
+    "GEOL 611": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1600-1650",
+        "class": "GEOL 611 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "1200-1250",
+        "class": "GEOL 611 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "GEOL 611 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "GEOL 611 TUT"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Wednesday",
+        "time": "1100-1250",
+        "class": "GEOL 611 LAB"
+      }
+    ],
+    "GEOL 613": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "GEOL 613 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "GEOL 613 TUT"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "GEOL 613 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "GEOL 613 LECTURE"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Thursday",
+        "time": "1500-1650",
+        "class": "GEOL 613 LAB"
+      }
+    ],
+    "GEOL 615": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Friday",
+        "time": "0900-0950",
+        "class": "GEOL 615 TUT"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "GEOL 615 Lecture"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "GEOL 615 LECTURE"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Friday",
+        "time": "1300-1450",
+        "class": "GEOL 615 LAB"
+      }
+    ],
+    "GEOL 621": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "GEOL 621 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "GEOL 621 TUT"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "GEOL 621 LAB"
+      }
+    ],
+    "GEOL 623": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Monday",
+        "time": "1000-1150",
+        "class": "GEOL 623 LECTURE"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "GEOL 623 LAB"
+      }
+    ],
+    "GEOL 625": [
+      {
+        "location": "BIUST - 119/004",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "GEOL 625 LECTURE"
+      },
+      {
+        "location": "BIUST - GENERAL ENVIRONMENTAL SCIENCE LAB",
+        "day": "Tuesday",
+        "time": "1500-1650",
+        "class": "GEOL 625 LAB"
+      }
+    ],
+    "GLEN 222": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "GLEN 222 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Wednesday",
+        "time": "1000-1150",
+        "class": "GLEN 222 LAB"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "1400-1550",
+        "class": "GLEN 222 LECTURE"
+      }
+    ],
+    "GLEN 311": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "GLEN 311 TUT"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Tuesday",
+        "time": "1300-1450",
+        "class": "GLEN 311 LECTURE"
+      },
+      {
+        "location": "BIUST - PETROLOGY/MINERALOGY LAB",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "GLEN 311 LAB"
+      }
+    ],
+    "GLEN 313": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "GLEN 313 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "1000-1150",
+        "class": "GLEN 313 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "GLEN 313 LAB"
+      }
+    ],
+    "GLEN 416": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "GLEN 416 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "GLEN 416 Tutorial"
+      },
+      {
+        "location": "BIUST - 115/002",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "GLEN 416 LAB"
+      }
+    ],
+    "GLEN 417": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "GLEN 417 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "GLEN 417 TUTORIAL"
+      }
+    ],
+    "GLEN 418": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Tuesday",
+        "time": "1300-1450",
+        "class": "GLEN 418 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Friday",
+        "time": "0800-0850",
+        "class": "GLEN 418 TUTORIAL"
+      },
+      {
+        "location": "BIUST - PETROLOGY/MINERALOGY LAB",
+        "day": "Thursday",
+        "time": "0900-1050",
+        "class": "GLEN 418 LAB"
+      }
+    ],
+    "GLEN 514": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "GLEN 514 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "GLEN 514 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Monday",
+        "time": "1100-1250",
+        "class": "GLEN 514 LAB"
+      }
+    ],
+    "INFS 222": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1000-1150",
+        "class": "INFS 222 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "INFS 222 TUTORIAL"
+      }
+    ],
+    "INFS 312": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "INFS 312 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "INFS 312 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "INFS 312 LAB"
+      }
+    ],
+    "INFS 361": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "INFS 361 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "INFS 361 LAB"
+      }
+    ],
+    "INFS 401": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "COMP 401/INFS 401 LECTURE"
+      }
+    ],
+    "INFS 411": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "INFS 411 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "INFS 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/001",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "INFS 411 LAB"
+      }
+    ],
+    "INFS 441": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "INFS 441 LAB"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "INFS 441 LECTURE"
+      }
+    ],
+    "INFS 451": [
+      {
+        "location": "BIUST - 119/003",
+        "day": "Friday",
+        "time": "0900-1050",
+        "class": "INFS 451 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Friday",
+        "time": "1500-1550",
+        "class": "INFS 451 TUTORIAL"
+      }
+    ],
+    "INME 311": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "INME 311 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "INME 311 TUTORIAL"
+      }
+    ],
+    "INME 313": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "INME 313 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "INME 313 LAB"
+      }
+    ],
+    "INME 314": [
+      {
+        "location": "BIUST - 119/004",
+        "day": "Thursday",
+        "time": "1500-1650",
+        "class": "INME 314 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "INME 314 LAB"
+      }
+    ],
+    "INME 411": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "INME 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/013",
+        "day": "Monday",
+        "time": "0900-1150",
+        "class": "INME 411 LAB"
+      }
+    ],
+    "INME 412": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "INME 412 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/013",
+        "day": "Tuesday",
+        "time": "1400-1650",
+        "class": "INME 412 LAB"
+      }
+    ],
+    "INME 413": [
+      {
+        "location": "BIUST - 119/003",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "INME 413 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/013",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "INME 413 LAB"
+      }
+    ],
+    "INME 414": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "1600-1750",
+        "class": "INME 414 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "INME 414 LAB"
+      }
+    ],
+    "INME 511": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "INME 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "INME 511 LAB INDUSTRIAL"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "INME 511 LAB MECHANICAL"
+      }
+    ],
+    "INME 512": [
+      {
+        "location": "BIUST - 119/008",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "INME 512 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "INME 512 LAB INDUSTRIAL"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Tuesday",
+        "time": "1400-1650",
+        "class": "INME 512 LAB MECHATRONICS"
+      }
+    ],
+    "INME 515": [
+      {
+        "location": "BIUST - 119/004",
+        "day": "Friday",
+        "time": "1100-1250",
+        "class": "INME 515 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "INME 515 LAB"
+      }
+    ],
+    "MATH 101": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "MATH 101 Lecture ENGINEERING"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "MATH 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Wednesday",
+        "time": "1000-1150",
+        "class": "MATH 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Thursday",
+        "time": "1000-1150",
+        "class": "MATH 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "MATH 101 Lecture ENGINEERING"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "MATH 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1000-1150",
+        "class": "MATH 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1000-1150",
+        "class": "MATH 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "MATH 101 TUT FORENSIC"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "MATH 101 Lecture ENGINEERING"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "MATH 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1000-1150",
+        "class": "MATH 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1000-1150",
+        "class": "MATH 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "MATH 101 TUT COMPUTER SC"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "MATH 101 TUT GEOL"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "MATH 101 TUT PA MATHS"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "MATH 101 TUT MECHANICAL"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "MATH 101 TUT CHEMICAL"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "MATH 101 TUT MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "MATH 101 TUT BIOLOGY"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "MATH 101 TUT EARTH & ENVIRONMENTAL"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "MATH 101 TUT ENVIRONMENTAL SC"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "MATH 101 TUT COMP & TELE"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1500-1550",
+        "class": "MATH 101 TUT INFORMATION SYS"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Wednesday",
+        "time": "1300-1350",
+        "class": "MATH 101 TUT ELECTRICAL"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "MATH 101 TUT MINING"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Monday",
+        "time": "1600-1650",
+        "class": "MATH 101 TUT PHYSICS"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "MATH 101 TUT INDUSTRIAL"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "MATH 101 TUT MATERIALS"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "MATH 101 TUT STATISTICS"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "MATH 101 TUT CIVIL"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "MATH 101 TUT GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "MATH 101 TUT PA CHEM"
+      }
+    ],
+    "MATH 201": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Wednesday",
+        "time": "1300-1350",
+        "class": "MATH 201 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "1500-1550",
+        "class": "MATH 201 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Friday",
+        "time": "0800-0850",
+        "class": "MATH 201 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "MATH 201 LECTURE"
+      }
+    ],
+    "MATH 202": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "MATH 202 TUTORIAL STAT & MATHS"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "MATH 202 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "MATH 202 TUTORIAL PHYS & PA CHEM"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "MATH 202 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "MATH 202 LECTURE"
+      }
+    ],
+    "MATH 207": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Friday",
+        "time": "1400-1450",
+        "class": "MATH 207 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "MATH 207 Lecture"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "MATH 207 LECTURE"
+      }
+    ],
+    "MATH 301": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "0900-0950",
+        "class": "MATH 301 Lecture"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "MATH 301 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "MATH 301 LECTURE"
+      }
+    ],
+    "MATH 302": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "MATH 302 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "MATH 302 Lecture"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "MATH 302 TUTORIAL"
+      }
+    ],
+    "MATH 307": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "MATH 307 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "MATH 307 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "MATH 307 TUTORIAL"
+      }
+    ],
+    "MATH 401": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "MATH 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "MATH 401 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "MATH 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Friday",
+        "time": "1300-1350",
+        "class": "MATH 401 LECTURE"
+      }
+    ],
+    "MATH 405": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1200-1250",
+        "class": "MATH 405 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "MATH 405 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "MATH 405 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "MATH 405 LECTURE"
+      }
+    ],
+    "MATH 409": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "MATH 409 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Tuesday",
+        "time": "1100-1150",
+        "class": "MATH 409 Lecture"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "MATH 409 LECTURE"
+      }
+    ],
+    "MATH 411": [
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "MATH 411 Lecture"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "MATH 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Monday",
+        "time": "1600-1650",
+        "class": "MATH 411 TUTORIAL"
+      }
+    ],
+    "MATH 412": [
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Friday",
+        "time": "0800-0850",
+        "class": "MATH 412 Lecture"
+      },
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Thursday",
+        "time": "1100-1250",
+        "class": "MATH 412 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "MATH 412 TUTORIAL"
+      }
+    ],
+    "MATH 601": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Wednesday",
+        "time": "1100-1250",
+        "class": "MATH 601 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "MATH 601 LECTURE"
+      }
+    ],
+    "MATH 614": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Friday",
+        "time": "0900-1050",
+        "class": "MATH 614 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "MATH 614 Lecture"
+      }
+    ],
+    "MATH 615": [
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "MATH 615 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "MATH 615 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "MATH 615 TUT"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "MATH 615 LECTURE"
+      }
+    ],
+    "MATH 622": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "1500-1550",
+        "class": "MATH 622 Lecture"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "MATH 622 TUT"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "MATH 622 LECTURE"
+      }
+    ],
+    "MATH 624": [
+      {
+        "location": "BIUST - 119/008",
+        "day": "Wednesday",
+        "time": "1500-1650",
+        "class": "MATH 624 LECTURE"
+      }
+    ],
+    "MATH 629": [
+      {
+        "location": "BIUST - 119/004",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "MATH 629 TUT"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "MATH 629 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "MATH 629 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "MATH 629 LECTURE"
+      }
+    ],
+    "MCTE 511": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Friday",
+        "time": "1600-1750",
+        "class": "MCTE 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "MCTE 511 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Tuesday",
+        "time": "0900-1050",
+        "class": "MCTE 511 LAB"
+      }
+    ],
+    "MCTE 521": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "MCTE 521 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "MCTE 521 LAB"
+      }
+    ],
+    "MECE 211": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "MECE 211 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "MECE 211 LECTURE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "MECE 211 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "MECE 211 TUTORIAL GROUP H"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Tuesday",
+        "time": "1700-1750",
+        "class": "MECE 211 TUTORIAL GROUP I"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "MECE 211 TUTORIAL GROUP G"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "MECE 211 TUTORIAL GROUP K"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Monday",
+        "time": "1500-1550",
+        "class": "MECE 211 TUTORIAL GROUP J"
+      },
+      {
+        "location": "BIUST - STATICS AND DYNAMICS LAB",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "MECE 211 LAB GROUP H"
+      },
+      {
+        "location": "BIUST - STATICS AND DYNAMICS LAB",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "MECE 211 LAB GROUP I"
+      },
+      {
+        "location": "BIUST - STATICS AND DYNAMICS LAB",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "MECE 211 LAB GROUP G"
+      },
+      {
+        "location": "BIUST - STATICS AND DYNAMICS LAB",
+        "day": "Wednesday",
+        "time": "1200-1450",
+        "class": "MECE 211 LAB GROUP K"
+      },
+      {
+        "location": "BIUST - STATICS AND DYNAMICS LAB",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "MECE 211 LAB GROUP J"
+      }
+    ],
+    "MECE 311": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "MECE 311 TUTORIAL MINING & GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "MECE 311 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "MECE 311 TUTORIAL MECHANICAL & MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 107/010",
+        "day": "Friday",
+        "time": "1000-1250",
+        "class": "MECE 311 LAB MECHANICAL & MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 107/010",
+        "day": "Wednesday",
+        "time": "1200-1450",
+        "class": "MECE 311 LAB MINING & GEOLOGICAL"
+      }
+    ],
+    "MECE 312": [
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "MECE 312 Tutorial CHEMICAL"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "MECE 312 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "MECE 312 Tutorial MECHANICAL"
+      },
+      {
+        "location": "BIUST - 107/010",
+        "day": "Thursday",
+        "time": "1200-1450",
+        "class": "MECE 312 LAB CHEMICAL"
+      },
+      {
+        "location": "BIUST - 107/010",
+        "day": "Tuesday",
+        "time": "1400-1650",
+        "class": "MECE 312 LAB MECHANICAL"
+      }
+    ],
+    "MECE 313": [
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "MECE 313 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Thursday",
+        "time": "1000-1050",
+        "class": "MECE 313 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/019",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "MECE 313 LAB"
+      }
+    ],
+    "MECE 412": [
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Friday",
+        "time": "1100-1250",
+        "class": "MECE 412 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1600-1650",
+        "class": "MECE 412 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/010",
+        "day": "Monday",
+        "time": "1200-1450",
+        "class": "MECE 412 LAB"
+      }
+    ],
+    "MECE 511": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Thursday",
+        "time": "1500-1650",
+        "class": "MECE 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "MECE 511 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Thursday",
+        "time": "1200-1450",
+        "class": "MECE 511 LAB"
+      }
+    ],
+    "MEIE 510": [
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Wednesday",
+        "time": "1000-1250",
+        "class": "MEIE 510 LECTURE"
+      }
+    ],
+    "MINE 411": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "MINE 411 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Friday",
+        "time": "1100-1250",
+        "class": "MINE 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 3D LAB",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "MINE 411 LAB"
+      }
+    ],
+    "MINE 413": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "MINE 413 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "MINE 413 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/019",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "MINE 413 LAB"
+      }
+    ],
+    "MINE 414": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Tuesday",
+        "time": "1400-1450",
+        "class": "MINE 414 LECTURE"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "1400-1450",
+        "class": "MINE 414 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Friday",
+        "time": "1300-1350",
+        "class": "MINE 414 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "MINE 414 LAB"
+      }
+    ],
+    "MINE 415": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "MINE 415 Lecture"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "MINE 415 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Tuesday",
+        "time": "1500-1650",
+        "class": "MINE 415 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "MINE 415 LAB"
+      }
+    ],
+    "MINE 416": [
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "MINE 416 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "MINE 416 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Thursday",
+        "time": "1200-1450",
+        "class": "MINE 416 LAB"
+      }
+    ],
+    "MINE 511": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Tuesday",
+        "time": "1300-1350",
+        "class": "MINE 511 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "1600-1750",
+        "class": "MINE 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "MINE 511 LAB"
+      }
+    ],
+    "MINE 512": [
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "MINE 512 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/019",
+        "day": "Thursday",
+        "time": "1100-1350",
+        "class": "MINE 512 LAB"
+      }
+    ],
+    "MINE 513": [
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "MINE 513 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/019",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "MINE 513 LAB"
+      }
+    ],
+    "MINE 514": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "MINE 514 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "MINE 514 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "MINE 514 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/019",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "MINE 514 LAB"
+      }
+    ],
+    "MINE 515": [
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Tuesday",
+        "time": "1400-1550",
+        "class": "MINE 515 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "MINE 515 LAB"
+      }
+    ],
+    "MINE 523": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Friday",
+        "time": "1000-1050",
+        "class": "MINE 523 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "MINE 523 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/017",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "MINE 523 LAB"
+      }
+    ],
+    "MINS 311": [
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "MINS 311 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/009",
+        "day": "Tuesday",
+        "time": "1000-1250",
+        "class": "MINS 311 LAB MECHANICAL & MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 107/009",
+        "day": "Friday",
+        "time": "1000-1250",
+        "class": "MINS 311 LAB ELECTRICAL & TELE"
+      }
+    ],
+    "MINS 411": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "MINS 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "MINS 411 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 107/009",
+        "day": "Wednesday",
+        "time": "1300-1550",
+        "class": "MINS 411 LAB"
+      }
+    ],
+    "MINS 412": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Thursday",
+        "time": "1600-1750",
+        "class": "MINS 412 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "MINS 412 LAB"
+      }
+    ],
+    "MINS 511": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "CTEN 511/MINS 511 TUTORIAL"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "CTEN 511/MINS 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/020 ELECTRONICS PROJECT WORKSHOP",
+        "day": "Thursday",
+        "time": "1000-1250",
+        "class": "CTEN 511/MINS 511 LAB"
+      }
+    ],
+    "MMEE 210": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Friday",
+        "time": "1000-1150",
+        "class": "MMEE 210 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "MMEE 210 TUT MINING"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "MMEE 210 TUT COMP & TELE"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "MMEE 210 TUT CHEMICAL"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "0900-0950",
+        "class": "MMEE 210 TUT MATERIALS"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "MMEE 210 TUT ELEC"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1000-1050",
+        "class": "MMEE 210 TUT IND"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "MMEE 210 TUT GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "MMEE 210 TUT CIVIL"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Wednesday",
+        "time": "1400-1450",
+        "class": "MMEE 210 TUT MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "MMEE 210 TUT MECHANICAL"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "MMEE 210 LAB MECHANICAL & MECHATRONICS"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "MMEE 210 LAB MINING & GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Wednesday",
+        "time": "1200-1450",
+        "class": "MMEE 210 LAB ELECTRICAL & IND"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Friday",
+        "time": "1200-1450",
+        "class": "MMEE 210 LAB MATERIALS & CHEMICAL"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "MMEE 210 LAB CIVIL & COMP"
+      }
+    ],
+    "MMEE 310": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "1700-1750",
+        "class": "MMEE 310 TUT"
+      },
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "0900-1050",
+        "class": "MMEE 310 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/002",
+        "day": "Wednesday",
+        "time": "1400-1650",
+        "class": "MMEE 310 LAB"
+      }
+    ],
+    "MMEE 313": [
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "MMEE 313 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "1700-1750",
+        "class": "MMEE 313 TUT"
+      },
+      {
+        "location": "BIUST - 121/004",
+        "day": "Friday",
+        "time": "0900-1150",
+        "class": "MMEE 313 LAB"
+      }
+    ],
+    "MMEE 410": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "MMEE 410 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "MMEE 410 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Thursday",
+        "time": "1700-1750",
+        "class": "MMEE 410 TUT"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Wednesday",
+        "time": "1200-1450",
+        "class": "MMEE 410 LAB"
+      }
+    ],
+    "MMEE 411": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Tuesday",
+        "time": "0900-1050",
+        "class": "MMEE 411 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "0900-0950",
+        "class": "MMEE 411 TUT"
+      },
+      {
+        "location": "BIUST - 121/004",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "MMEE 411 LAB"
+      }
+    ],
+    "MMEE 413": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "MMEE 413 TUT"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Tuesday",
+        "time": "1100-1250",
+        "class": "MMEE 413 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/004",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "MMEE 413 LAB"
+      }
+    ],
+    "MMEE 415": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1400-1450",
+        "class": "MMEE 415 TUT"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "1000-1150",
+        "class": "MMEE 415 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "MMEE 415 LAB"
+      }
+    ],
+    "MMEE 513": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "MMEE 513 TUT"
+      },
+      {
+        "location": "BIUST - 125/001-002",
+        "day": "Monday",
+        "time": "1400-1550",
+        "class": "MMEE 513 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/016",
+        "day": "Friday",
+        "time": "1500-1750",
+        "class": "MMEE 513 LAB"
+      }
+    ],
+    "MMEE 515": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1200-1250",
+        "class": "MMEE 515 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "MMEE 515 LECTURE"
+      },
+      {
+        "location": "BIUST - 121/003",
+        "day": "Tuesday",
+        "time": "1500-1750",
+        "class": "MMEE 515 LAB"
+      }
+    ],
+    "MMEE 522": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "MMEE 522 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Wednesday",
+        "time": "0800-0850",
+        "class": "MMEE 522 TUT"
+      },
+      {
+        "location": "BIUST - 121/004",
+        "day": "Thursday",
+        "time": "1300-1550",
+        "class": "MMEE 522 LAB"
+      }
+    ],
+    "PHYS 101": [
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Tuesday",
+        "time": "1000-1150",
+        "class": "PHYS 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "PHYS 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Thursday",
+        "time": "1400-1450",
+        "class": "PHYS 101 Lecture ENGINEERING"
+      },
+      {
+        "location": "BIUST - AUDITORIUM",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "PHYS 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1000-1150",
+        "class": "PHYS 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "PHYS 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "PHYS 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "1000-1150",
+        "class": "PHYS 101 LECTURE ENGINEERING"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "PHYS 101 LECTURE SCIENCE"
+      },
+      {
+        "location": "BIUST - ENVIRONMENTAL SCIENCES SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1700-1750",
+        "class": "PHYS 101 Lecture SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "PHYS 101 LAB GROUP FORENSICS & PA CHEM"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Friday",
+        "time": "0900-1150",
+        "class": "PHYS 101 LAB GROUP PHYSICS & ENV SC"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Tuesday",
+        "time": "1000-1250",
+        "class": "PHYS 101 LAB GROUP STATS"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "PHYS 101 LAB GROUP MECHATRONICS"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Tuesday",
+        "time": "1300-1550",
+        "class": "PHYS 101 LAB GROUP EARTH"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "PHYS 101 LAB GROUP MINING & GEOLOGICAL"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Wednesday",
+        "time": "1500-1750",
+        "class": "PHYS 101 LAB GROUP COMP & TELE"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB A",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "PHYS 101 LAB GROUP CIVIL"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "PHYS 101 LAB GROUP INFORMATION SYSTEMS & COMPUTER SCIENCE"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Friday",
+        "time": "0800-1050",
+        "class": "PHYS 101 LAB GROUP BIOLOGY"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "PHYS 101 LAB GROUP GEOLOGY"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Friday",
+        "time": "1300-1550",
+        "class": "PHYS 101 LAB GROUP CHEMICAL, MATERIALS"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Tuesday",
+        "time": "1400-1650",
+        "class": "PHYS 101 LAB GROUP MATHS"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Wednesday",
+        "time": "1400-1650",
+        "class": "PHYS 101 LAB GROUP MECHANICAL"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "PHYS 101 LAB GROUP ELECTRICAL"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 1 LAB B",
+        "day": "Thursday",
+        "time": "1500-1750",
+        "class": "PHYS 101 LAB GROUP INDUSTRIAL"
+      }
+    ],
+    "PHYS 201": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Tuesday",
+        "time": "0900-0950",
+        "class": "PHYS 201 Lecture"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Thursday",
+        "time": "1200-1350",
+        "class": "PHYS 201 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 2 LAB",
+        "day": "Monday",
+        "time": "1100-1350",
+        "class": "PHYS 201 LAB"
+      }
+    ],
+    "PHYS 202": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "PHYS 202 Lecture"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "PHYS 202 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 2 LAB",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "PHYS 202 LAB"
+      }
+    ],
+    "PHYS 301": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Wednesday",
+        "time": "1200-1350",
+        "class": "PHYS 301 LECTURE"
+      },
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1300-1350",
+        "class": "PHYS 301 Lecture"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Thursday",
+        "time": "1500-1550",
+        "class": "PHYS 301 TUT"
+      }
+    ],
+    "PHYS 305": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Thursday",
+        "time": "0800-0850",
+        "class": "PHYS 305 Lecture"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Friday",
+        "time": "1400-1550",
+        "class": "PHYS 305 TUT"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "PHYS 305 LECTURE"
+      }
+    ],
+    "PHYS 311": [
+      {
+        "location": "BIUST - PHYSICS COMPUTER LAB",
+        "day": "Monday",
+        "time": "0800-1050",
+        "class": "PHYS 311 LAB"
+      },
+      {
+        "location": "BIUST - ASTRONOMY LAB",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "PHYS 311 Lecture"
+      },
+      {
+        "location": "BIUST - ASTRONOMY LAB",
+        "day": "Tuesday",
+        "time": "1500-1650",
+        "class": "PHYS 311 LECTURE"
+      }
+    ],
+    "PHYS 403": [
+      {
+        "location": "BIUST - PHYSICS YEAR 4 LAB",
+        "day": "Tuesday",
+        "time": "1200-1450",
+        "class": "PHYS 403 LAB 2"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 4 LAB",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "PHYS 403 LAB"
+      }
+    ],
+    "PHYS 404": [
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "PHYS 404 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "PHYS 404 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Friday",
+        "time": "1200-1250",
+        "class": "PHYS 404 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 4 LAB",
+        "day": "Wednesday",
+        "time": "0800-1050",
+        "class": "PHYS 404 LAB"
+      }
+    ],
+    "PHYS 411": [
+      {
+        "location": "BIUST - PHYSICS YEAR 4 LAB",
+        "day": "Monday",
+        "time": "0800-0950",
+        "class": "PHYS 411 LECTURE"
+      },
+      {
+        "location": "BIUST - PHYSICS YEAR 4 LAB",
+        "day": "Tuesday",
+        "time": "0800-1050",
+        "class": "PHYS 411 LAB"
+      }
+    ],
+    "PHYS 412": [
+      {
+        "location": "BIUST - ASTRONOMY LAB",
+        "day": "Thursday",
+        "time": "0800-1050",
+        "class": "PHYS 412 LAB"
+      },
+      {
+        "location": "BIUST - ASTRONOMY LAB",
+        "day": "Friday",
+        "time": "1000-1150",
+        "class": "PHYS 412 LECTURE"
+      },
+      {
+        "location": "BIUST - ASTRONOMY LAB",
+        "day": "Wednesday",
+        "time": "1600-1650",
+        "class": "PHYS 412 Lecture"
+      }
+    ],
+    "STAT 202": [
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Monday",
+        "time": "1100-1150",
+        "class": "STAT 202 TUT PHYS"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Tuesday",
+        "time": "1600-1650",
+        "class": "STAT 202 Lecture"
+      },
+      {
+        "location": "BIUST - 124/001-002",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "STAT 202 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "STAT 202 TUT STAT & MATH"
+      }
+    ],
+    "STAT 301": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Monday",
+        "time": "1300-1350",
+        "class": "STAT 301 TUT"
+      },
+      {
+        "location": "BIUST - 122/001-002",
+        "day": "Wednesday",
+        "time": "1500-1550",
+        "class": "STAT 301 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Monday",
+        "time": "1200-1250",
+        "class": "STAT 301 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Tuesday",
+        "time": "1500-1550",
+        "class": "STAT 301 LECTURE"
+      }
+    ],
+    "STAT 303": [
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "STAT 303 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "STAT 303 LAB"
+      }
+    ],
+    "STAT 304": [
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Tuesday",
+        "time": "0900-0950",
+        "class": "STAT 304 Lecture"
+      },
+      {
+        "location": "BIUST - 114/003-004",
+        "day": "Wednesday",
+        "time": "1600-1750",
+        "class": "STAT 304 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Wednesday",
+        "time": "1000-1050",
+        "class": "STAT 304 TUT"
+      }
+    ],
+    "STAT 309": [
+      {
+        "location": "BIUST - 114/001-002",
+        "day": "Wednesday",
+        "time": "0800-0850",
+        "class": "STAT 309 LECTURE"
+      },
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Friday",
+        "time": "0800-0850",
+        "class": "STAT 309 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Monday",
+        "time": "1600-1650",
+        "class": "STAT 309 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/008",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "STAT 309 TUT"
+      }
+    ],
+    "STAT 401": [
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "STAT 401 TUT"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Monday",
+        "time": "0800-0850",
+        "class": "STAT 401 Lecture"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1100-1250",
+        "class": "STAT 401 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1500-1650",
+        "class": "STAT 401 LECTURE"
+      }
+    ],
+    "STAT 414": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Friday",
+        "time": "1100-1150",
+        "class": "STAT 414 TUT"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "0800-0950",
+        "class": "STAT 414 LECTURE"
+      }
+    ],
+    "STAT 416": [
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Monday",
+        "time": "0900-1050",
+        "class": "STAT 416 LECTURE"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Wednesday",
+        "time": "1200-1250",
+        "class": "STAT 416 TUT"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1400-1450",
+        "class": "STAT 416 Lecture"
+      }
+    ],
+    "STAT 421": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "STAT 421 & STAT 603 TUT"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "STAT 421 & STAT 603 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Friday",
+        "time": "0900-0950",
+        "class": "STAT 421 & STAT 603 Lecture"
+      }
+    ],
+    "STAT 601": [
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Friday",
+        "time": "0800-0850",
+        "class": "STAT 601 TUT"
+      },
+      {
+        "location": "BIUST - BIOLOGY SEMINAR ROOM",
+        "day": "Thursday",
+        "time": "1200-1250",
+        "class": "STAT 601 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/003-004",
+        "day": "Wednesday",
+        "time": "1100-1150",
+        "class": "STAT 601 LECTURE"
+      },
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Tuesday",
+        "time": "0800-0850",
+        "class": "STAT 601 LECTURE"
+      }
+    ],
+    "STAT 603": [
+      {
+        "location": "BIUST - 114/005-006",
+        "day": "Thursday",
+        "time": "0900-0950",
+        "class": "STAT 421 & STAT 603 TUT"
+      },
+      {
+        "location": "BIUST - 125/003-004",
+        "day": "Tuesday",
+        "time": "0800-0950",
+        "class": "STAT 421 & STAT 603 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Friday",
+        "time": "0900-0950",
+        "class": "STAT 421 & STAT 603 Lecture"
+      }
+    ],
+    "STAT 611": [
+      {
+        "location": "BIUST - 124/003-004",
+        "day": "Friday",
+        "time": "1500-1550",
+        "class": "STAT 611 TUT"
+      },
+      {
+        "location": "BIUST - 124/005-006",
+        "day": "Wednesday",
+        "time": "1600-1650",
+        "class": "STAT 611 LECTURE"
+      },
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Friday",
+        "time": "1600-1650",
+        "class": "STAT 611 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/004",
+        "day": "Tuesday",
+        "time": "1000-1050",
+        "class": "STAT 611 LECTURE"
+      }
+    ],
+    "STAT 612": [
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Tuesday",
+        "time": "1200-1250",
+        "class": "STAT 612 TUT"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Friday",
+        "time": "1200-1350",
+        "class": "STAT 612 LAB"
+      },
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1500-1650",
+        "class": "STAT 612 LECTURE"
+      }
+    ],
+    "STAT 613": [
+      {
+        "location": "BIUST - PHYSICS SEMINAR ROOM",
+        "day": "Friday",
+        "time": "1000-1150",
+        "class": "STAT 613 LECTURE"
+      }
+    ],
+    "STAT 615": [
+      {
+        "location": "BIUST - 115/003 STATISTICS COMPUTER LAB",
+        "day": "Thursday",
+        "time": "1300-1450",
+        "class": "STAT 615 LECTURE"
+      }
+    ],
+    "STAT 621": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Monday",
+        "time": "1500-1650",
+        "class": "STAT 621 LECTURE"
+      },
+      {
+        "location": "BIUST - 119/003",
+        "day": "Thursday",
+        "time": "1100-1150",
+        "class": "STAT 621 TUT"
+      }
+    ],
+    "TELE 511": [
+      {
+        "location": "BIUST - 122/005-006",
+        "day": "Wednesday",
+        "time": "1400-1550",
+        "class": "TELE 511 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/ 018",
+        "day": "Friday",
+        "time": "1400-1650",
+        "class": "TELE 511 LAB"
+      }
+    ],
+    "TELE 513": [
+      {
+        "location": "BIUST - 119/003",
+        "day": "Thursday",
+        "time": "0800-0950",
+        "class": "TELE 513 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/ 018",
+        "day": "Monday",
+        "time": "1500-1750",
+        "class": "TELE 513 LAB"
+      }
+    ],
+    "TELE 522": [
+      {
+        "location": "BIUST - 125/005-006",
+        "day": "Friday",
+        "time": "0800-0950",
+        "class": "TELE 522 LECTURE"
+      },
+      {
+        "location": "BIUST - 107/ 018",
+        "day": "Tuesday",
+        "time": "1100-1350",
+        "class": "TELE 522 LAB"
+      }
+    ]
+  }
+}
